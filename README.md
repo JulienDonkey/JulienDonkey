@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JulienDonkey
 - 👀 I’m interested in Developement Web, Front-end technology and Geek stuff.
 - 🌱 I’m currently learning Angular 12 (soon 14)
-- 💞️ I’m looking to collaborate on Equidia Rework
+- 💞️ I’m looking to collaborate on Web front work.
 - 📫 How to reach me : mailto julien@donkeycode.com
 
 <!---
